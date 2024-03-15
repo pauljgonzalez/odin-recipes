@@ -2,7 +2,7 @@
 
 This is the first project in The Odin Project. It involves making a basic recipe website with just html. It will have a home page and 3 recipes.
 
-**Link to project:** 
+**Link to project:** https://pauljgonzalez.github.io/odin-recipes/
 
 ## How It's Made:
 
